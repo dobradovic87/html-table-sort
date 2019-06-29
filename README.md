@@ -1,4 +1,4 @@
-# html-table-sort - es6
+# html-table-sort - es6 verzija
 
 Napraviti JavaScript program za kreiranje 2 HTML tabele koje prikazuju podatke iz
 niza "data", (file data.js). 
